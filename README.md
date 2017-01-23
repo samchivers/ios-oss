@@ -1,5 +1,7 @@
 # Kickstarter for iOS
 
+[![Circle CI](https://circleci.com/gh/kickstarter/ios-oss.svg?style=svg)](https://circleci.com/gh/kickstarter/ios-oss)
+
 Welcome to Kickstarter’s open source iOS app! Come on in, take your shoes off,
 stay a while—explore how Kickstarter’s native squad has built and continues to
 build the app.
@@ -11,7 +13,7 @@ and read more about our journey to open source [here](https://kickstarter.engine
 
 ## Getting Started
 
-1. [Download](https://developer.apple.com/xcode/download/) the Xcode 7.3.1 release.
+1. [Download](https://developer.apple.com/xcode/download/) the Xcode 8.2 release.
 1. Clone this repository.
 1. Run `make bootstrap` to install tools and dependencies.
 1. Run `make test-all` to build and run tests on all platforms.
